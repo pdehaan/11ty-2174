@@ -1,0 +1,16 @@
+{
+  "name": "11ty-2174",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "DEBUG=Eleventy:TemplatePassthroughManager eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1-canary.2"
+  }
+}
